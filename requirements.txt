@@ -1,0 +1,8 @@
+pyautogui
+opencv-python
+gTTS
+sounddevice
+soundfile
+vosk
+nltk
+textstat
