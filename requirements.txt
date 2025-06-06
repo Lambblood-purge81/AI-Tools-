@@ -1,3 +1,6 @@
+streamlit
+openai==1.84.o       
+python-dotenv
 pyautogui
 opencv-python
 gTTS
