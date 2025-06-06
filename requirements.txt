@@ -1,5 +1,5 @@
 streamlit
-openai==1.84.o       
+openai
 python-dotenv
 pyautogui
 opencv-python
